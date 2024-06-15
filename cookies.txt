@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+certcpv2024.ine.gob.bo	TRUE	/	FALSE	1999999999	certcenso	ccjqphpd9b83bapsa99je48enoln7u1i
+certcpv2024.ine.gob.bo	TRUE	/	FALSE	1999999999	SameSite	Lax
+
